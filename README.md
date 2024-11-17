@@ -9,6 +9,7 @@ Fixes of the last version implemented.
 # Installation
 Download the file.<br/>
 Then put into your resources.<br/>
+Make sure there is no other resources with weaponanimations.meta files for vanilla weapons.<br/>
 Ensure and enjoy!
 
 # Contributing
