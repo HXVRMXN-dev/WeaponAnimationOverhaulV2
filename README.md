@@ -7,8 +7,8 @@ Newer animations the previous version didn't have.
 Fixes of the last version implemented.
 
 # Installation
-Download the file.__
-Then put into your resources.__
+Download the file.<br/>
+Then put into your resources.<br/>
 Ensure and enjoy!
 
 # Contributing
