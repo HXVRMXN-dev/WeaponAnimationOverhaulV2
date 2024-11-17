@@ -2,9 +2,9 @@
 This is a server-sided version of IcePick's mod what replaces weapon animations.
 
 # Features
-Clean and properly formatted weaponanimations.meta merged together.
-Newer animations the previous version didn't have.
-Fixes of the last version implemented.
+Clean and properly formatted weaponanimations.meta merged together.<br/>
+Newer animations the previous version didn't have.<br/>
+Fixes of the last version implemented.<br/>
 
 # Installation
 Download the file.<br/>
