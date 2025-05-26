@@ -1,0 +1,412 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CWeaponAnimationsSets>
+  <WeaponAnimationsSets>
+    <Item key="GangFemale">
+      <Fallback>Gang</Fallback>
+      <WeaponAnimations>
+        <Item key="WEAPON_GRENADELAUNCHER">
+          <CoverMovementClipSetHash />
+          <CoverMovementExtraClipSetHash />
+          <CoverAlternateMovementClipSetHash />
+          <CoverWeaponClipSetHash />
+          <MotionClipSetHash>move_ballistic_2h</MotionClipSetHash>
+          <MotionFilterHash />
+          <MotionCrouchClipSetHash />
+          <MotionStrafingClipSetHash />
+          <MotionStrafingStealthClipSetHash />
+          <MotionStrafingUpperBodyClipSetHash />
+          <WeaponClipSetHash />
+          <WeaponClipSetStreamedHash />
+          <WeaponClipSetHashInjured />
+          <WeaponClipSetHashStealth />
+          <WeaponClipSetHashHiCover />
+          <AlternativeClipSetWhenBlocked />
+          <ScopeWeaponClipSet />
+          <AlternateAimingStandingClipSetHash />
+          <AlternateAimingCrouchingClipSetHash />
+          <FiringVariationsStandingClipSetHash />
+          <FiringVariationsCrouchingClipSetHash />
+          <AimTurnStandingClipSetHash />
+          <AimTurnCrouchingClipSetHash />
+          <MeleeClipSetHash />
+          <MeleeVariationClipSetHash />
+          <MeleeTauntClipSetHash />
+          <MeleeSupportTauntClipSetHash />
+          <MeleeStealthClipSetHash />
+          <ShellShockedClipSetHash />
+          <JumpUpperbodyClipSetHash />
+          <FallUpperbodyClipSetHash />
+          <FromStrafeTransitionUpperBodyClipSetHash />
+          <SwapWeaponFilterHash />
+          <SwapWeaponInLowCoverFilterHash />
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="true" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="NULL" />
+          <WeaponSwapClipSetHash>weapons@holster_fat_2h</WeaponSwapClipSetHash>
+          <AimGrenadeThrowNormalClipsetHash />
+          <AimGrenadeThrowAlternateClipsetHash />
+        </Item>
+        <Item key="WEAPON_GRENADELAUNCHER_SMOKE">
+          <CoverMovementClipSetHash />
+          <CoverMovementExtraClipSetHash />
+          <CoverAlternateMovementClipSetHash />
+          <CoverWeaponClipSetHash />
+          <MotionClipSetHash>move_ballistic_2h</MotionClipSetHash>
+          <MotionFilterHash />
+          <MotionCrouchClipSetHash />
+          <MotionStrafingClipSetHash />
+          <MotionStrafingStealthClipSetHash />
+          <MotionStrafingUpperBodyClipSetHash />
+          <WeaponClipSetHash />
+          <WeaponClipSetStreamedHash />
+          <WeaponClipSetHashInjured />
+          <WeaponClipSetHashStealth />
+          <WeaponClipSetHashHiCover />
+          <AlternativeClipSetWhenBlocked />
+          <ScopeWeaponClipSet />
+          <AlternateAimingStandingClipSetHash />
+          <AlternateAimingCrouchingClipSetHash />
+          <FiringVariationsStandingClipSetHash />
+          <FiringVariationsCrouchingClipSetHash />
+          <AimTurnStandingClipSetHash />
+          <AimTurnCrouchingClipSetHash />
+          <MeleeClipSetHash />
+          <MeleeVariationClipSetHash />
+          <MeleeTauntClipSetHash />
+          <MeleeSupportTauntClipSetHash />
+          <MeleeStealthClipSetHash />
+          <ShellShockedClipSetHash />
+          <JumpUpperbodyClipSetHash />
+          <FallUpperbodyClipSetHash />
+          <FromStrafeTransitionUpperBodyClipSetHash />
+          <SwapWeaponFilterHash />
+          <SwapWeaponInLowCoverFilterHash />
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="true" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="NULL" />
+          <WeaponSwapClipSetHash>weapons@holster_fat_2h</WeaponSwapClipSetHash>
+          <AimGrenadeThrowNormalClipsetHash />
+          <AimGrenadeThrowAlternateClipsetHash />
+        </Item>
+        <Item key="WEAPON_RPG">
+          <CoverMovementClipSetHash />
+          <CoverMovementExtraClipSetHash />
+          <CoverAlternateMovementClipSetHash />
+          <CoverWeaponClipSetHash />
+          <MotionClipSetHash>move_ballistic_2h</MotionClipSetHash>
+          <MotionFilterHash />
+          <MotionCrouchClipSetHash />
+          <MotionStrafingClipSetHash />
+          <MotionStrafingStealthClipSetHash />
+          <MotionStrafingUpperBodyClipSetHash />
+          <WeaponClipSetHash />
+          <WeaponClipSetStreamedHash />
+          <WeaponClipSetHashInjured />
+          <WeaponClipSetHashStealth />
+          <WeaponClipSetHashHiCover />
+          <AlternativeClipSetWhenBlocked />
+          <ScopeWeaponClipSet />
+          <AlternateAimingStandingClipSetHash />
+          <AlternateAimingCrouchingClipSetHash />
+          <FiringVariationsStandingClipSetHash />
+          <FiringVariationsCrouchingClipSetHash />
+          <AimTurnStandingClipSetHash />
+          <AimTurnCrouchingClipSetHash />
+          <MeleeClipSetHash />
+          <MeleeVariationClipSetHash />
+          <MeleeTauntClipSetHash />
+          <MeleeSupportTauntClipSetHash />
+          <MeleeStealthClipSetHash />
+          <ShellShockedClipSetHash />
+          <JumpUpperbodyClipSetHash />
+          <FallUpperbodyClipSetHash />
+          <FromStrafeTransitionUpperBodyClipSetHash />
+          <SwapWeaponFilterHash />
+          <SwapWeaponInLowCoverFilterHash />
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="true" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="NULL" />
+          <WeaponSwapClipSetHash>weapons@holster_fat_2h</WeaponSwapClipSetHash>
+          <AimGrenadeThrowNormalClipsetHash />
+          <AimGrenadeThrowAlternateClipsetHash />
+        </Item>
+        <Item key="WEAPON_MINIGUN">
+          <CoverMovementClipSetHash />
+          <CoverMovementExtraClipSetHash />
+          <CoverAlternateMovementClipSetHash />
+          <CoverWeaponClipSetHash />
+          <MotionClipSetHash>move_ballistic_minigun</MotionClipSetHash>
+          <MotionFilterHash />
+          <MotionCrouchClipSetHash />
+          <MotionStrafingClipSetHash />
+          <MotionStrafingStealthClipSetHash />
+          <MotionStrafingUpperBodyClipSetHash />
+          <WeaponClipSetHash />
+          <WeaponClipSetStreamedHash />
+          <WeaponClipSetHashInjured />
+          <WeaponClipSetHashStealth />
+          <WeaponClipSetHashHiCover />
+          <AlternativeClipSetWhenBlocked />
+          <ScopeWeaponClipSet />
+          <AlternateAimingStandingClipSetHash />
+          <AlternateAimingCrouchingClipSetHash />
+          <FiringVariationsStandingClipSetHash />
+          <FiringVariationsCrouchingClipSetHash />
+          <AimTurnStandingClipSetHash />
+          <AimTurnCrouchingClipSetHash />
+          <MeleeClipSetHash />
+          <MeleeVariationClipSetHash />
+          <MeleeTauntClipSetHash />
+          <MeleeSupportTauntClipSetHash />
+          <MeleeStealthClipSetHash />
+          <ShellShockedClipSetHash />
+          <JumpUpperbodyClipSetHash />
+          <FallUpperbodyClipSetHash />
+          <FromStrafeTransitionUpperBodyClipSetHash />
+          <SwapWeaponFilterHash />
+          <SwapWeaponInLowCoverFilterHash />
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="true" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="NULL" />
+          <AimGrenadeThrowNormalClipsetHash />
+          <AimGrenadeThrowAlternateClipsetHash />
+        </Item>
+        <Item key="WEAPON_COMPACTLAUNCHER">
+          <CoverMovementClipSetHash>cover@move@ai@base@1h</CoverMovementClipSetHash>
+          <CoverMovementExtraClipSetHash />
+          <CoverAlternateMovementClipSetHash>cover@move@ai@base@1h</CoverAlternateMovementClipSetHash>
+          <CoverWeaponClipSetHash>Cover_Wpn_CompactLauncher</CoverWeaponClipSetHash>
+          <MotionClipSetHash>weapons@pistol@</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionCrouchClipSetHash />
+          <MotionStrafingClipSetHash />
+          <MotionStrafingStealthClipSetHash />
+          <MotionStrafingUpperBodyClipSetHash />
+          <WeaponClipSetHash>anim@weapons@heavy@compactgl</WeaponClipSetHash>
+          <WeaponClipSetStreamedHash>anim@weapons@heavy@compactgl_str</WeaponClipSetStreamedHash>
+          <WeaponClipSetHashInjured>anim@weapons@heavy@compactgl_injured</WeaponClipSetHashInjured>
+          <WeaponClipSetHashStealth>anim@weapons@heavy@compactgl_stealth</WeaponClipSetHashStealth>
+          <WeaponClipSetHashHiCover />
+          <AlternativeClipSetWhenBlocked />
+          <ScopeWeaponClipSet />
+          <AlternateAimingStandingClipSetHash />
+          <AlternateAimingCrouchingClipSetHash />
+          <FiringVariationsStandingClipSetHash>combat_fire_variations_pistol</FiringVariationsStandingClipSetHash>
+          <FiringVariationsCrouchingClipSetHash />
+          <AimTurnStandingClipSetHash>combat_aim_turns_pistol</AimTurnStandingClipSetHash>
+          <AimTurnCrouchingClipSetHash />
+          <MeleeClipSetHash>melee@pistol@streamed_core</MeleeClipSetHash>
+          <MeleeVariationClipSetHash />
+          <MeleeTauntClipSetHash />
+          <MeleeSupportTauntClipSetHash />
+          <MeleeStealthClipSetHash />
+          <ShellShockedClipSetHash>reaction@shellshock@unarmed</ShellShockedClipSetHash>
+          <JumpUpperbodyClipSetHash>MOVE_JUMP@WEAPONS@PISTOL</JumpUpperbodyClipSetHash>
+          <FallUpperbodyClipSetHash>MOVE_FALL@WEAPONS@PISTOL</FallUpperbodyClipSetHash>
+          <FromStrafeTransitionUpperBodyClipSetHash>weapons@pistol@</FromStrafeTransitionUpperBodyClipSetHash>
+          <SwapWeaponFilterHash>RightArm_NoSpine_filter</SwapWeaponFilterHash>
+          <SwapWeaponInLowCoverFilterHash>RightArm_NoSpine_filter</SwapWeaponInLowCoverFilterHash>
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="3.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="true" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+          <AimGrenadeThrowNormalClipsetHash>Wpn_Thrown_Grenade_Aiming_Rifle</AimGrenadeThrowNormalClipsetHash>
+          <AimGrenadeThrowAlternateClipsetHash />
+        </Item>
+        <Item key="WEAPON_RAYCARBINE">
+          <CoverMovementClipSetHash />
+          <CoverMovementExtraClipSetHash />
+          <CoverAlternateMovementClipSetHash />
+          <CoverWeaponClipSetHash />
+          <MotionClipSetHash>move_ballistic_2h</MotionClipSetHash>
+          <MotionFilterHash />
+          <MotionCrouchClipSetHash />
+          <MotionStrafingClipSetHash />
+          <MotionStrafingStealthClipSetHash />
+          <MotionStrafingUpperBodyClipSetHash />
+          <WeaponClipSetHash />
+          <WeaponClipSetStreamedHash />
+          <WeaponClipSetHashInjured />
+          <WeaponClipSetHashStealth />
+          <WeaponClipSetHashHiCover />
+          <AlternativeClipSetWhenBlocked />
+          <ScopeWeaponClipSet />
+          <AlternateAimingStandingClipSetHash />
+          <AlternateAimingCrouchingClipSetHash />
+          <FiringVariationsStandingClipSetHash />
+          <FiringVariationsCrouchingClipSetHash />
+          <AimTurnStandingClipSetHash />
+          <AimTurnCrouchingClipSetHash />
+          <MeleeClipSetHash />
+          <MeleeVariationClipSetHash />
+          <MeleeTauntClipSetHash />
+          <MeleeSupportTauntClipSetHash />
+          <MeleeStealthClipSetHash />
+          <ShellShockedClipSetHash />
+          <JumpUpperbodyClipSetHash />
+          <FallUpperbodyClipSetHash />
+          <FromStrafeTransitionUpperBodyClipSetHash />
+          <SwapWeaponFilterHash />
+          <SwapWeaponInLowCoverFilterHash />
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="true" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="NULL" />
+          <WeaponSwapClipSetHash>weapons@holster_fat_2h</WeaponSwapClipSetHash>
+          <AimGrenadeThrowNormalClipsetHash />
+          <AimGrenadeThrowAlternateClipsetHash />
+        </Item>
+        <Item key="WEAPON_RAYMINIGUN">
+          <CoverMovementClipSetHash />
+          <CoverMovementExtraClipSetHash />
+          <CoverAlternateMovementClipSetHash />
+          <CoverWeaponClipSetHash />
+          <MotionClipSetHash>clipset@anim@weapons@heavy@space_cannon</MotionClipSetHash>
+          <MotionFilterHash>BothArms_filter</MotionFilterHash>
+          <MotionCrouchClipSetHash />
+          <MotionStrafingClipSetHash />
+          <MotionStrafingStealthClipSetHash />
+          <MotionStrafingUpperBodyClipSetHash />
+          <WeaponClipSetHash>clipset@anim@weapons@heavy@space_cannon</WeaponClipSetHash>
+          <WeaponClipSetStreamedHash />
+          <WeaponClipSetHashInjured />
+          <WeaponClipSetHashStealth />
+          <WeaponClipSetHashHiCover />
+          <AlternativeClipSetWhenBlocked />
+          <ScopeWeaponClipSet />
+          <AlternateAimingStandingClipSetHash />
+          <AlternateAimingCrouchingClipSetHash />
+          <FiringVariationsStandingClipSetHash />
+          <FiringVariationsCrouchingClipSetHash />
+          <AimTurnStandingClipSetHash />
+          <AimTurnCrouchingClipSetHash />
+          <MeleeClipSetHash />
+          <MeleeVariationClipSetHash />
+          <MeleeTauntClipSetHash />
+          <MeleeSupportTauntClipSetHash />
+          <MeleeStealthClipSetHash />
+          <ShellShockedClipSetHash />
+          <JumpUpperbodyClipSetHash>MOVE_JUMP@WEAPONS@RIFLE</JumpUpperbodyClipSetHash>
+          <FallUpperbodyClipSetHash>MOVE_FALL@WEAPONS@RIFLE</FallUpperbodyClipSetHash>
+          <FromStrafeTransitionUpperBodyClipSetHash>weapons@rifle@</FromStrafeTransitionUpperBodyClipSetHash>
+          <SwapWeaponFilterHash />
+          <SwapWeaponInLowCoverFilterHash />
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="true" />
+          <AimingDownTheBarrel value="false" />
+          <WeaponSwapData ref="SWAP_DEFAULT" />
+          <AimGrenadeThrowNormalClipsetHash />
+          <AimGrenadeThrowAlternateClipsetHash />
+        </Item>
+        <Item key="WEAPON_FIREWORK">
+          <CoverMovementClipSetHash />
+          <CoverMovementExtraClipSetHash />
+          <CoverAlternateMovementClipSetHash />
+          <CoverWeaponClipSetHash />
+          <MotionClipSetHash>move_ballistic_2h</MotionClipSetHash>
+          <MotionFilterHash />
+          <MotionCrouchClipSetHash />
+          <MotionStrafingClipSetHash />
+          <MotionStrafingStealthClipSetHash />
+          <MotionStrafingUpperBodyClipSetHash />
+          <WeaponClipSetHash />
+          <WeaponClipSetStreamedHash />
+          <WeaponClipSetHashInjured />
+          <WeaponClipSetHashStealth />
+          <WeaponClipSetHashHiCover />
+          <AlternativeClipSetWhenBlocked />
+          <ScopeWeaponClipSet />
+          <AlternateAimingStandingClipSetHash />
+          <AlternateAimingCrouchingClipSetHash />
+          <FiringVariationsStandingClipSetHash />
+          <FiringVariationsCrouchingClipSetHash />
+          <AimTurnStandingClipSetHash />
+          <AimTurnCrouchingClipSetHash />
+          <MeleeClipSetHash />
+          <MeleeVariationClipSetHash />
+          <MeleeTauntClipSetHash />
+          <MeleeSupportTauntClipSetHash />
+          <MeleeStealthClipSetHash />
+          <ShellShockedClipSetHash />
+          <JumpUpperbodyClipSetHash />
+          <FallUpperbodyClipSetHash />
+          <FromStrafeTransitionUpperBodyClipSetHash />
+          <SwapWeaponFilterHash />
+          <SwapWeaponInLowCoverFilterHash />
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="true" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="NULL" />
+          <WeaponSwapClipSetHash>weapons@holster_fat_2h</WeaponSwapClipSetHash>
+          <AimGrenadeThrowNormalClipsetHash />
+          <AimGrenadeThrowAlternateClipsetHash />
+        </Item>
+        <Item key="WEAPON_RAILGUN">
+          <CoverMovementClipSetHash />
+          <CoverMovementExtraClipSetHash />
+          <CoverAlternateMovementClipSetHash />
+          <CoverWeaponClipSetHash />
+          <MotionClipSetHash>move_ballistic_2h</MotionClipSetHash>
+          <MotionFilterHash />
+          <MotionCrouchClipSetHash />
+          <MotionStrafingClipSetHash />
+          <MotionStrafingStealthClipSetHash />
+          <MotionStrafingUpperBodyClipSetHash />
+          <WeaponClipSetHash />
+          <WeaponClipSetStreamedHash />
+          <WeaponClipSetHashInjured />
+          <WeaponClipSetHashStealth />
+          <WeaponClipSetHashHiCover />
+          <AlternativeClipSetWhenBlocked />
+          <ScopeWeaponClipSet />
+          <AlternateAimingStandingClipSetHash />
+          <AlternateAimingCrouchingClipSetHash />
+          <FiringVariationsStandingClipSetHash />
+          <FiringVariationsCrouchingClipSetHash />
+          <AimTurnStandingClipSetHash />
+          <AimTurnCrouchingClipSetHash />
+          <MeleeClipSetHash />
+          <MeleeVariationClipSetHash />
+          <MeleeTauntClipSetHash />
+          <MeleeSupportTauntClipSetHash />
+          <MeleeStealthClipSetHash />
+          <ShellShockedClipSetHash />
+          <JumpUpperbodyClipSetHash />
+          <FallUpperbodyClipSetHash />
+          <FromStrafeTransitionUpperBodyClipSetHash />
+          <SwapWeaponFilterHash />
+          <SwapWeaponInLowCoverFilterHash />
+          <AnimFireRateModifier value="1.000000" />
+          <AnimBlindFireRateModifier value="1.000000" />
+          <AnimWantingToShootFireRateModifier value="-1.000000" />
+          <UseFromStrafeUpperBodyAimNetwork value="true" />
+          <AimingDownTheBarrel value="true" />
+          <WeaponSwapData ref="NULL" />
+          <WeaponSwapClipSetHash>weapons@holster_fat_2h</WeaponSwapClipSetHash>
+          <AimGrenadeThrowNormalClipsetHash />
+          <AimGrenadeThrowAlternateClipsetHash />
+        </Item>
+      </WeaponAnimations>
+    </Item>
+  </WeaponAnimationsSets>
+</CWeaponAnimationsSets>
