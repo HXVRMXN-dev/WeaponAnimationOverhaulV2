@@ -6,7 +6,11 @@ description 'Weapon Animation Overhaul V2'
 version '1.0.0'
 
 client_scripts {
-    'WAOverride.lua'
+    'cl_WAOverride.lua'
+}
+
+server_scripts {
+    'sv_WAOverride.lua'
 }
 
 files {
